@@ -12,7 +12,7 @@ statusBtn.onclick = function() {
         result.textContent = `You are Welcome, Chisom!`;
     } else if(childName === "Ikechukwu" && childAge === 22) {
         result.textContent = `You are Welcome, Ikechukwu!`;
-    } else if(childName === "kenechukwu" && childAge === 20) {
+    } else if(childName === "Kenechukwu" && childAge === 20) {
         result.textContent = `You are Welcome, Kenechukwu!`;
     } else if(childName === "Kosisochukwu" && childAge === 16) {
         result.textContent = `You are Welcome, Kosisochukwu!`;
